@@ -1,0 +1,5 @@
+Name,Value,Description
+InputFolderPath,Data\InputData,Path of the Input files
+OutputFolderPath,Data\OutPutData,path of the output files
+ValidationStationStatus,No,Status of the Present validation station Yes\No
+DUApiKey,rTUcwnBnykZJVI84DoZzn62YbMUN8ga2Z0RRTxosZqGOPfGLwVi8f/DL3mlb9ywNZS7q0TpEZlvuq2gH73cH4w==,Document Understanding API Key
